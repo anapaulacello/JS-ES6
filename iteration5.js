@@ -40,6 +40,8 @@ let mixLOLL = streamers.filter((element) => {
 });
 console.log(mixLOLL);
 
+//TODO 5.6 y 5.8
+
 let newInput=document.querySelector(`input[data-function="toFilterStreamers]`)
 
 let match = streamers.filter((element) => {
